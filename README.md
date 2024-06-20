@@ -95,6 +95,7 @@ Para iniciar o projeto, execute a classe `E_CommerceApplication`.
 -----
 ![DIAGRMA](https://github.com/GabrielRodriggues/Av2/assets/112523344/d1c87c54-4ee7-4554-a303-791a1cab6fde)
 
+![BANCO](https://github.com/GabrielRodriggues/Av2/assets/112523344/f2861d96-d971-4314-bc3f-a028de440936)
 
 ![login](https://github.com/GabrielRodriggues/Av2/assets/112523344/022510fd-eb49-4799-b6b4-3c0953db21b1)
 
