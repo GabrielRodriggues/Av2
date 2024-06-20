@@ -93,7 +93,8 @@ Para iniciar o projeto, execute a classe `E_CommerceApplication`.
       "error": "Usuário não foi encontrado"
     }
 -----
-![Uploading DIAGRMA.png…]()
+![DIAGRMA](https://github.com/GabrielRodriggues/Av2/assets/112523344/d1c87c54-4ee7-4554-a303-791a1cab6fde)
+
 
 ![login](https://github.com/GabrielRodriggues/Av2/assets/112523344/022510fd-eb49-4799-b6b4-3c0953db21b1)
 
