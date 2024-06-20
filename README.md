@@ -92,4 +92,6 @@ Para iniciar o projeto, execute a classe `E_CommerceApplication`.
     {
       "error": "Usuário não foi encontrado"
     }
-    ```
+    ```![Capturar](https://github.com/GabrielRodriggues/Av2/assets/112523344/a72d7d5f-614a-498a-9bff-6ae0de43b659)
+    ![login](https://github.com/GabrielRodriggues/Av2/assets/112523344/cf42608a-eff2-4aa6-93a5-dbc63ee47173)
+![tokin](https://github.com/GabrielRodriggues/Av2/assets/112523344/85b5a2d7-c0e4-490d-9c41-62f1248e3a1f)
